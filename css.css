@@ -1,0 +1,49 @@
+
+.fundo{
+    background-color: rgb(10, 63, 10);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-image-slice: 100%;
+}
+
+#iniciarJogo{
+    border-radius: 15px;
+    border-color:darkgray;
+    display: block;
+    margin-left: 633px;
+    margin-top: 228px;
+    width: 100px;
+    height: 50px;
+}
+
+#cartaNaMesa{
+    margin-left: 525px;
+}
+
+.Player{
+    margin-top: 300px;
+}
+
+.botoesdecisoes
+{
+    display: inline;
+}
+
+.off
+{
+    display: none;
+}
+
+#botoes
+{
+    padding-bottom: 10px;
+}
+
+#pontuacao
+{   
+    background-color:azure;    
+}
+
+
+
+
